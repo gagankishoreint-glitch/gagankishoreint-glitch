@@ -23,11 +23,9 @@ Welcome to my GitHub Page! I'm a passionate **Computer Science student** special
 
 ---
 
-## Github Stats
+## Github Stats 📊
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagankishoreint-glitch&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</div>
+View my GitHub stats at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)alt="GitHub Stats" />
 ---
 
 ## 🚀 Featured Projects

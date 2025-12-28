@@ -6,8 +6,11 @@ I'm a passionate Computer Science student from India with a specialization in AI
 My Journey:
 I'm actively building my expertise in:
 Frontend Development with HTML, CSS, and JavaScript
-Backend Development using Python, C++, and Java
+
+Backend Development using Python, C++
+
 AI & Machine Learning applications
+
 Cybersecurity fundamentals (Kali Linux, Ubuntu)
 
 ## 🌐 Socials:

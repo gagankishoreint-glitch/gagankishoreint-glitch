@@ -10,26 +10,22 @@
 
 Welcome to my GitHub Page! I'm a passionate **Computer Science student** specializing in **AI and Data Engineering**. I learn new things about programming and am actively building my skills in full-stack web development and cybersecurity. I have been programming for several years and worked with many languages and technologies.
 
-## My favorite tools and technologies ⚙️
+## Skill Set:
 
-> Tools and technologies that I have worked with and am interested in
-
-| | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50"></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"></a> | <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"></a> | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"></a> | <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50"></a> | <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50"></a> |
-| Python | JavaScript | C++ | Java | HTML | CSS | React | TensorFlow | Linux |
-| | | | | | | | | |
-| <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"></a> | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"></a> | <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"></a> | <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"></a> | <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"></a> | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50"></a> | <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"></a> | <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="50"></a> |
-| Docker | Git | GitHub | Postman | MySQL | PostgreSQL | MongoDB | Node.js | Ubuntu |
+| Frontend | Languages | Others |
+|----------|-----------|--------|
+| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60"></a> | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="60"></a> | <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60"></a> |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60"></a> | <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60"></a> |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60"></a> | | <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60"></a> |
+| HTML | Python | GitHub |
+| CSS | JavaScript | Figma |
+| JavaScript | | Linux |
 
 ---
 
-## Github stats 📊
+## Github Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gagankishoreint-glitch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gagankishoreint-glitch&theme=dark" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagankishoreint-glitch&show_icons=true&theme=dark&count_private=true)
 
 ---
 

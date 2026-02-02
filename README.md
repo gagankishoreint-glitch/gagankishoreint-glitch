@@ -22,9 +22,6 @@ Cybersecurity fundamentals (Kali Linux, Ubuntu)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gagankishoreint-glitch&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gagankishoreint-glitch&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gagankishoreint-glitch&icon=2&color=1)](https://visitcount.itsvg.in)
 

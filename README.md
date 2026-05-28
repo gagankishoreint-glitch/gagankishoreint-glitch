@@ -1,5 +1,4 @@
-# 💫 About Me:
-Based on your GitHub profile content, here's a professional and engaging "About Me" section:
+
 
 💫 About Me:
 I'm a passionate Computer Science student from India with a specialization in AI and Data Engineering. As a dedicated full-stack developer, I'm committed to building innovative solutions that solve real-world problems.

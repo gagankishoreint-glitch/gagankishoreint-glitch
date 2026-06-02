@@ -1,16 +1,8 @@
 
-
 💫 About Me:
-I'm a passionate Computer Science student from India with a specialization in AI and Data Engineering. As a dedicated full-stack developer, I'm committed to building innovative solutions that solve real-world problems.
-My Journey:
-I'm actively building my expertise in:
-Frontend Development with HTML, CSS, and JavaScript
+I'm interested in Computer Science and I like to build stuff for timepass and fun.
 
-Backend Development using Python, C++
-
-AI & Machine Learning applications
-
-Cybersecurity fundamentals (Kali Linux, Ubuntu)
+Connect to build and explore the void of CS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gagankishore) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kai_thelone1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gagankishoreint@gmail.com) 

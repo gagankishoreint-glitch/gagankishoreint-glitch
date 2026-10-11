@@ -92,14 +92,6 @@ I am focused on the intersection of **data engineering, analytics and applied AI
 | **[Anomaly Detection System](https://github.com/your-username/project-link)** | Exploratory analysis, Isolation Forest, evaluation metrics, visualizations and actionable insights |
 | **[Agentic RAG Assistant](https://github.com/your-username/project-link)** | Ollama, LangChain or LangGraph, retrieval workflow, prompt design, API integration and response evaluation |
 
-### What makes a project hiring-ready?
-
-- A clear problem statement and architecture diagram
-- Reproducible setup instructions and sample data
-- Clean Python modules instead of one large notebook
-- SQL scripts, data-quality checks and meaningful tests
-- Docker support and a simple GitHub Actions workflow
-- Screenshots, metrics and a short explanation of trade-offs
 
 ## 🏅 Certifications & Learning
 
@@ -108,10 +100,6 @@ I am focused on the intersection of **data engineering, analytics and applied AI
 - **Oracle AI Database SQL Certified Associate** — Oracle
 - **Agentic AI Certified Foundations Associate** — Oracle
 - **Deloitte Data Analytics Job Simulation** — Forage *(virtual experience)*
-
-## 🏢 Employers & Teams Worth Targeting
-
-The stack above is most relevant to **cloud data teams, analytics consultancies, enterprise technology groups and AI-enabled product companies**. These are employers and teams worth monitoring in India; an individual opening may close or change, so always verify the role on the employer’s own careers page.
 
 
 ## 🚀 Current Focus

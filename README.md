@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Gagan 👋
 
 ### Data Engineering • Microsoft Fabric & Azure • AI / Agentic Systems
 

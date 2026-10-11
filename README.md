@@ -81,18 +81,6 @@ I am focused on the intersection of **data engineering, analytics and applied AI
 
 `Linux` `Docker` `Git` `GitHub` `REST APIs` `Networking Basics`
 
-## 📂 Projects
-
-<!-- Replace the links below with your real repositories. Do not leave sample projects here unless you have actually built them. -->
-
-| Project | What it demonstrates |
-| --- | --- |
-| **[End-to-End Data Pipeline](https://github.com/your-username/project-link)** | Python/SQL ingestion, cleaning, validation, transformations, relational modeling and documentation |
-| **[Microsoft Fabric / Azure Data Project](https://github.com/your-username/project-link)** | Lakehouse or warehouse design, pipeline orchestration, medallion-style layers and data quality checks |
-| **[Anomaly Detection System](https://github.com/your-username/project-link)** | Exploratory analysis, Isolation Forest, evaluation metrics, visualizations and actionable insights |
-| **[Agentic RAG Assistant](https://github.com/your-username/project-link)** | Ollama, LangChain or LangGraph, retrieval workflow, prompt design, API integration and response evaluation |
-
-
 ## 🏅 Certifications & Learning
 
 - **Microsoft Certified: Fabric Data Engineer Associate** — Microsoft
@@ -102,24 +90,4 @@ I am focused on the intersection of **data engineering, analytics and applied AI
 - **Deloitte Data Analytics Job Simulation** — Forage *(virtual experience)*
 
 
-## 🚀 Current Focus
-
-- Building production-style data pipelines with clear validation and monitoring
-- Practicing Microsoft Fabric and Azure data-platform patterns
-- Creating small, measurable RAG and agentic-AI applications
-- Improving SQL, data modeling, testing, Docker and GitHub workflows
-
-## 🤝 Let’s Connect
-
-I’m open to conversations about **data engineering, Azure/Fabric, analytics and applied AI opportunities**.
-
-- **Email:** [your.email@example.com](mailto:gagankishoreint@example.com)
-
----
-
-<div align="center">
-
-### Turning data into reliable systems — and ideas into useful AI.
-
-</div>
 

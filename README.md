@@ -113,18 +113,6 @@ I am focused on the intersection of **data engineering, analytics and applied AI
 
 The stack above is most relevant to **cloud data teams, analytics consultancies, enterprise technology groups and AI-enabled product companies**. These are employers and teams worth monitoring in India; an individual opening may close or change, so always verify the role on the employer’s own careers page.
 
-**Reviewed: 11 October 2026 (India).** Treat this as a dated target list, not a guarantee that every employer has an open role today.
-
-| Employer / team | Why it matches | Reality check |
-| --- | --- | --- |
-| [Microsoft India](https://careers.microsoft.com/v2/global/en/locations/india.html) | Azure Data Engineering, Microsoft Fabric, data integration and large-scale analytics | Strong stack match, but many current engineering listings are experienced roles |
-| [TCS Careers](https://careers.tcs.com/) | Large-scale Azure, SQL, ETL and data-platform delivery across clients | Search specifically for trainee, associate and junior roles if early-career |
-| [Tiger Analytics](https://www.tigeranalytics.com/about-us/current-openings/) | Data engineering, analytics, AI/ML and Microsoft Fabric work | Openings span different experience levels, including campus/trainee opportunities |
-| [Hitachi Careers](https://careers.hitachi.com/search) | Azure, Databricks, SQL, PySpark, data lakes and industrial analytics | Several matching listings are aimed at candidates with professional experience |
-| Enterprise consulting teams | Deloitte, PwC, Accenture, EY, Cognizant, Capgemini, Wipro, Infosys and HCLTech frequently recruit for data and cloud delivery | Match the job title and experience requirement; certificates alone are not a substitute for project evidence |
-| Product and internal data teams | Manufacturing, finance, retail, media and technology companies need Python, SQL, data quality and analytics engineers | Search for `Data Engineer`, `Analytics Engineer`, `ETL Developer`, `Data Quality` and `AI Engineer` |
-
-> 🔎 **Hiring snapshot:** This section is intentionally written as a target list rather than a permanent claim that every employer is hiring today. Refresh it before applying. For early-career roles, search for **intern, graduate, trainee, associate, junior, 0–2 years** and filter by location.
 
 ## 🚀 Current Focus
 
@@ -137,9 +125,7 @@ The stack above is most relevant to **cloud data teams, analytics consultancies,
 
 I’m open to conversations about **data engineering, Azure/Fabric, analytics and applied AI opportunities**.
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Location / availability:** [Add your location, relocation preference or remote availability]
+- **Email:** [your.email@example.com](mailto:gagankishoreint@example.com)
 
 ---
 
